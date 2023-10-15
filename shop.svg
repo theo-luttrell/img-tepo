@@ -1,0 +1,15 @@
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="47.124756mm" height="34.685112mm" viewBox="0 0 178.10932 131.09334" version="1.1" id="svg1">
+  <sodipodi:namedview id="namedview1" pagecolor="#ffffff" bordercolor="#111111" borderopacity="1" inkscape:showpageshadow="0" inkscape:pageopacity="0" inkscape:pagecheckerboard="1" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:export-bgcolor="#ffffff00"/>
+  <defs id="defs1">
+    <linearGradient id="linearGradient53" inkscape:collect="always">
+      <stop style="stop-color:#e3e3da;stop-opacity:1;" offset="0" id="stop53"/>
+      <stop style="stop-color:#85aff5;stop-opacity:1;" offset="0.2574479" id="stop55"/>
+      <stop style="stop-color:#d6109e;stop-opacity:1;" offset="0.61551023" id="stop56"/>
+      <stop style="stop-color:#81a96a;stop-opacity:1;" offset="0.73676062" id="stop57"/>
+      <stop style="stop-color:#dbbf13;stop-opacity:1;" offset="0.90608096" id="stop58"/>
+      <stop style="stop-color:#3fbecd;stop-opacity:1;" offset="1" id="stop54"/>
+    </linearGradient>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient53" id="linearGradient54" x1="917.24963" y1="53.277504" x2="1076.6326" y2="121.94104" gradientUnits="userSpaceOnUse" gradientTransform="translate(-910.22728,-37.66795)"/>
+  </defs>
+  <rect style="fill:url(#linearGradient54);fill-opacity:1;stroke:#000000;stroke-width:4.27843;stroke-dasharray:none;stroke-opacity:1" id="rect52" width="173.83096" height="126.81491" x="2.1391766" y="2.1392167" rx="12.094488"/>
+</svg>
